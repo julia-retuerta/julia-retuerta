@@ -8,7 +8,7 @@
 
 - 🌱 ESTOY ESTUDIANDO **HTML5, CSS, JAVASCRIPT**
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](https://juliaretuerta.com/)
+- 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN [juliaretuerta.com](https://juliaretuerta.com/)
 
 - 📫 PUEDES CONTACTARME EN **julia.retuertanogales@gmail.com**
 
