@@ -4,7 +4,7 @@
 <h1 align="center">Hola 👋, Soy JULIA RETUERTA</h1>
 <!-- <h3 align="center">QUE TE APASIONA</h3> -->
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
+<!-- - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO) -->
 
 - 🌱 ESTOY ESTUDIANDO **HTML5, CSS, JAVASCRIPT**
 
@@ -41,9 +41,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+ <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- </a>
+ </a> -->
 
   <a href="https://getbem.com/">
       <img src="http://jennyknuth.com/wp-content/uploads/2018/03/BEM-1.png" target="_blank" rel="noreferrer" width="40" height="40" alt="BEM metodology">
